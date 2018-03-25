@@ -1,0 +1,83 @@
+header {
+	display: block;
+	height: 70px;
+	background: url(../images/stars.png);
+	color: #FFF;
+	font-family: Cambria;
+	font-size: 40px; 
+	font-weight: bolder;
+	text-align: center;
+	border: 1px solid #225588;
+}
+div {
+	margin: 0 10px;
+}	
+
+.menu {
+	list-style: none;
+	border-bottom: 5px solid #000000;
+	border-top: 1px solid #000000;
+	padding: 0;
+	background: #000080;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.menu a {
+	text-decoration: none;
+	display: block;
+	font-size: 30px;
+}
+
+.menu li {
+	display: inline-block;
+}
+
+.menu li a {
+	color: #fefefe;
+	text-decoration: none;
+	background: #000080;
+	border: 1px solid #225588;
+	border-bottom: 1px solid #114477; 
+	padding: 10px 14px 10px 14px; 
+}	
+
+.menu li a:hover {
+	border-left: 1px solid #E0FFFF; 
+	border-right: 1px solid #E0FFFF;
+	background: #87CEFA;
+}
+
+.maintext { 
+    background: #B0C4DE;
+    border: 2px solid #000080;
+	font-size: 30px;
+	padding: 50px 200px;
+	margin: 0;
+}
+
+.contact { 
+    background: #B0C4DE;
+    border: 2px solid #000080;
+	font-size: 30px;
+	padding: 50px 200px;
+	margin: 0;
+}
+
+.maintext, .guidelines p {
+	text-indent: 50px;
+	text-align: justify;
+}
+
+.footer {
+	background: url(../images/grass.png);
+	display: block;
+	height: 70px;
+	color: white;
+	font-family: Cambria;
+	font-size: 40px; 
+	font-weight: bolder;
+	text-align: center;
+	border: 1px solid #008B8B;
+	margin: 0;
+}
