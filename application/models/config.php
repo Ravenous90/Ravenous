@@ -3,5 +3,5 @@
 	$dbUsername = 'root';
 	$dbPassword  = '';
 	$dbName = 'users';
-	$projectLocation = 'http://localhost/projects/Test_task_procedural-master/MVC/application/';
+	$projectLocation = 'http://'.$_SERVER['SERVER_NAME'].'/projects/Task/application/';
 ?>
