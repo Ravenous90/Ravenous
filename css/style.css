@@ -1,63 +1,63 @@
 P {
-	padding-left: 20px;
+    padding-left: 20px;
 }
 
 .create_account, .enter_to_site, .account_room {
-	margin: 10px;
+    margin: 10px;
 }
 
 #signup, #login, #account {
-	border-style: ridge;
-	border-color: #fff;
-	border-width: 5px;
-	padding: 5px;
-	width: 900px;
-	font-size: 25px;
-	margin: 10px;
-	box-shadow: 0 0 0 6px rgba(153, 153, 153, .3);
-	border-radius: 6px;
+    border-style: ridge;
+    border-color: #fff;
+    border-width: 5px;
+    padding: 5px;
+    width: 900px;
+    font-size: 25px;
+    margin: 10px;
+    box-shadow: 0 0 0 6px rgba(153, 153, 153, .3);
+    border-radius: 6px;
 }
 
-.signup, .login, .account { 
+.signup, .login, .account {
     background: #B0C4DE;
     border: 2px solid #000080;
-	font-size: 30px;
-	padding: 50px 200px;
-	margin: 0;
+    font-size: 30px;
+    padding: 50px 200px;
+    margin: 0;
 }
 
 .field {
-	width: 200px;
-	height: 20px;
-	border: 2px solid #A9A9A9;
-	border-radius: 4px;
+    width: 200px;
+    height: 20px;
+    border: 2px solid #A9A9A9;
+    border-radius: 4px;
 }
 
 .field_login {
-	width: 204px;
-	height: 26px;
-	border: 2px solid #A9A9A9;
-	border-radius: 4px;
+    width: 204px;
+    height: 26px;
+    border: 2px solid #A9A9A9;
+    border-radius: 4px;
 }
 
 #haveaccount, #wantregister {
-	margin: 20px;
+    margin: 20px;
 }
 
 input:focus {
-	border-style: solid;
-	border-color: #87CEFA;
-	box-shadow: 1px 1px 2px 0 #98FB98;
-}	
+    border-style: solid;
+    border-color: #87CEFA;
+    box-shadow: 1px 1px 2px 0 #98FB98;
+}
 
 .account_room {
-	font-size: 50px;
-}	
+    font-size: 50px;
+}
 
 .field_account {
-	font-size: 20px;
+    font-size: 20px;
 }
 
 #edit_profile {
-	font-size: 25px;
+    font-size: 25px;
 }
