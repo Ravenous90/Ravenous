@@ -2,8 +2,15 @@
 
 class Controller
 {
-    public $username, $email, $password, $old_password, $new_password,
-        $gender, $phone, $age, $info;
+    public $username;
+    public $email;
+    public $password;
+    public $old_password;
+    public $new_password;
+    public $gender;
+    public $phone;
+    public $age;
+    public $info;
 
     function getDataSignup($username, $email, $password)
     { // получение данных с полей регистрации и запись их в переменные
