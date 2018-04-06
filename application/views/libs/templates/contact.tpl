@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<link rel="stylesheet" href="libs/templates/css/style.css"/>
-		<meta charset="utf-8">
-	</head>
-	
-	<body>
-		<div class="contact">
-			{$contact}
-		</div>	
-	</body>	
+<head>
+    <link rel="stylesheet" href="libs/templates/css/style.css"/>
+    <meta charset="utf-8">
+</head>
+
+<body>
+<div class="contact">
+    {$contact}
+</div>
+</body>
 </html>
