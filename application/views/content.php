@@ -2,7 +2,6 @@
 
 class Content
 {
-    public $title;
     public $header;
     public $footer;
     public $maintext;
@@ -11,7 +10,6 @@ class Content
 }
 
 $myContent = new Content();
-$myContent->title = 'Main page';
 $myContent->header = 'header';
 $myContent->footer = 'footer';
 $myContent->maintext = '<p><b>Gas marketing in Europe</b></p>
