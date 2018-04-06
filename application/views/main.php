@@ -1,3 +1,4 @@
+<title>Main page</title>
 <?php
 include 'libs/connect_smarty.php';
 $smarty->display('libs/templates/header.tpl');
