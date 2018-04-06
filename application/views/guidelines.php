@@ -1,3 +1,4 @@
+<title>Guidelines</title>
 <?php 
 include "libs/connect_smarty.php";
 $smarty->display('libs/templates/header.tpl');
